@@ -10,7 +10,7 @@ Participants:
 
 Task management table: [here](https://trello.com/b/hwUyLq4V/g8-garage-projiect-cs4273) [Replace by your public board later]
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype: [here](https://quanlyto.glitch.me/) [Replace by your public prototype later]
 
 Tech stacks:
 
