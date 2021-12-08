@@ -1,0 +1,353 @@
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmCapNhatMatKhau.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\Van\Desktop\Do an\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmCapNhatMatKhau.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+C:\Users\vyle3\Downloads\QuanLyGara (1)\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+C:\Users\Van\Desktop\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\vyle3\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.Form1.resources
+D:\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+D:\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+D:\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+D:\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+D:\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyGara\QLGR\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyGara\QLGR\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+D:\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+D:\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+D:\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+D:\Nhom20_QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.csprojResolveAssemblyReference.cache
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.Cache
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\RdlCompile.cache
+C:\Users\ESON\Desktop\QuanLyGaraOto-master\QuanLyGaraOto\QuanLyGara\QLGR\obj\Debug\RdlCompile.compiled
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.AssemblyReference.cache
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.cache
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.CoreCompileInputs.cache
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.CopyComplete
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+C:\Users\Namlhu\Downloads\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\QLGR.exe.config
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\QLGR.exe
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\QLGR.pdb
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\DevComponents.DotNetBar2.dll
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.AssemblyReference.cache
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.SuggestedBindingRedirects.cache
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoDoanhSo.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmBaoCaoVTPT.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmDangNhap.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmHieuXe.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuSuaChua.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuThuTien.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmInPhieuTiepNhanXe.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuSuaChua.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMain.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmMuaPhuTung.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuSuaChua.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhieuThuTien.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmPhuTung.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmQuanLyNhanVien.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiMatKhau.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThayDoiQuyDinh.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinPhanMem.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmThongTinTaiKhoan.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTienCong.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTiepNhanXe.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmTimKiem.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.frmLapPhieuThuTien.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Presentation.SplashScreen.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.Properties.Resources.resources
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.GenerateResource.cache
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.CoreCompileInputs.cache
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.csproj.CopyComplete
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.exe
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\obj\Debug\QLGR.pdb
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK1_2021-2022\NhapMon 4273\Project\QuanLyGara\QLGR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
